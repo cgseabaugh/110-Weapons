@@ -1,0 +1,59 @@
+
+body{
+    background: url("https://vignette.wikia.nocookie.net/bloodborne/images/3/35/Oedon_Chapel_Original_Concept_art.png/revision/latest?cb=20170910065718") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    background: url("http://www.wildrootspreschool.com/wp-content/uploads/2018/01/dark-old-wood-texture-background-header.jpg");
+    text-align: center;
+    border-radius: 5px;
+    height: 60px;
+}
+
+.row{
+    background: url("https://i.stack.imgur.com/MlTXZ.png");
+    border-radius: 5px;
+    height: 355px;
+    width: 550px;
+    margin-left: 25%;
+}
+
+.form-control{
+    width: 115px;
+    float: right;
+    margin-right: 35%;
+}
+
+#label{
+    text-align: center;
+}
+
+#wname{
+    width: 300px;
+}
+
+#wdamage{
+    width: 100px;
+}
+
+#wrequirements{
+    width: 300px;
+}
+
+#wprice{
+    width: 100px;
+}
+
+#wdescription{
+    width: 300px;
+}
+
+#wimageurl{
+    width: 300px;
+}
+
+.button{
+    margin-left: 40%;
+}

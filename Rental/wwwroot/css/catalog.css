@@ -1,0 +1,86 @@
+body{
+    color: white;
+    background: url("https://vignette.wikia.nocookie.net/bloodborne/images/6/6b/Hunters_dream_workshop_concept_art.png/revision/latest?cb=20171021032028") no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    background-color: #333;
+    font-family: Helvetica;
+}
+
+h1{
+    text-align: center;
+    background: url("http://www.wildrootspreschool.com/wp-content/uploads/2018/01/dark-old-wood-texture-background-header.jpg");
+    border-radius: 5px;
+}
+
+#item{
+    width: 800px;
+    height: 525px;
+    margin-top: 3%;
+    margin-left: 12%;
+    display: flex;
+    background: url("https://i.stack.imgur.com/MlTXZ.png");
+    background-size: cover;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.itemLabel{
+    font-size: 21px;
+    color: rgb(204, 191, 79);
+}
+
+.itemInfo{
+    margin-top: -15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#itemImage{
+    width: 350px;
+}
+
+.weaponItems{
+    width: 280px;
+    margin-left: -80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#name{
+    font-size: 32px;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-radius: 5px;
+}
+
+#btnPrice{
+    margin-top: 10px;
+}
+
+#type{}
+
+#damage{}
+
+#requirement{}
+
+#price{
+    font-size: 32px;
+}
+
+#id{}
+
+#description{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.weaponPrice{
+    margin-left: 20%;
+}
